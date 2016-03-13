@@ -1,6 +1,3 @@
-persist.sys.timezone=Europe/Rome
-ro.product.locale.language=it
-ro.product.locale.region=IT
 ro.miui.region=IT
 ro.miui.mcc=9998
 ro.miui.mnc=9999
